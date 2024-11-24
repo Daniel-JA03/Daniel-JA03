@@ -63,20 +63,6 @@
 
 ###
 
-<h3 align="left">🔥   Mis estadísticas :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Daniel-JA03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Daniel-JA03/Daniel-JA03/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
