@@ -65,18 +65,16 @@
 
 ###
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
 <a href="https://github.com/Daniel-JA03">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YheremiRamos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YheremiRamos&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel-JA03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel-JA03&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
----
 
 <div align="center">
   <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
