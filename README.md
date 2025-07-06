@@ -35,10 +35,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Daniel-JA03">
-    <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel-JA03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel-JA03&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<a href="https://github.com/YheremiRamos">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YheremiRamos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YheremiRamos&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 
