@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="350" src="https://viajes.nationalgeographic.com.es/medio/2024/01/09/istock_3fcf1ef0_1387126975_240109173344_1280x640.jpg"  />
-</div>
+<h1 align="center">Hola, soy Daniel Jaimes y bienvenido a mi github 👋</h1>
 
 ###
 
@@ -14,10 +12,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Daniel-JA03.Daniel-JA03&"  />
 </div>
-
-###
-
-<h1 align="center">Hola, soy Daniel Jaimes y bienvenido a mi github 👋</h1>
 
 ###
 
