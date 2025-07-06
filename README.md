@@ -34,13 +34,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Daniel-JA03">
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel-JA03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel-JA03&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel-JA03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel-JA03&layout=compact&langs_count=8&theme=algolia"/>
+    </td>
+  </tr>
+</table>
 
 
 <div align="center">
