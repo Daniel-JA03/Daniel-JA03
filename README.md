@@ -24,15 +24,62 @@
 
 ###
 
-## <h3 align="left">🛠 Tecnologías que manejo</h3>
+## 🛠 Tecnologías que manejo
+
+### 🔷 Lenguajes de programación
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+
+---
+
+### 🔷 Frameworks y Librerías
+[![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![dotnet	](https://skillicons.dev/icons?i=dotnet	)](https://skillicons.dev)
+<br>
+🟪 `ASP.NET Core`, `Entity Framework`
+
+---
+
+### 🔷 Bases de datos
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![sqlite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+<br>
+🟦 SQL Server 
+
+---
+
+### 🔷 Herramientas y Entornos
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+[![Gradle](https://skillicons.dev/icons?i=gradle)](https://skillicons.dev)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
+
+##
+---
+
+### 🧪 Explorando y aprendiendo
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
 
 ---
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,html,css,js,ts,angular,react,bootstrap,tailwind,kotlin,py,mysql,mongodb)](https://skillicons.dev)
-###
-
-## 📊 GitHub Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <table>
   <tr>
