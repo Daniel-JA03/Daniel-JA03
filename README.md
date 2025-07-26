@@ -40,7 +40,6 @@
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 [![dotnet	](https://skillicons.dev/icons?i=dotnet	)](https://skillicons.dev)
 <br>
 🟪 `ASP.NET Core`, `Entity Framework`
@@ -75,7 +74,7 @@
 ### 🧪 Explorando y aprendiendo
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
-
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 ---
 ###
 
